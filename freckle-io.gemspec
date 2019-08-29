@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name         = "freckle_io"
-  spec.version      = "0.1.1"
+  spec.version      = "0.1.2"
   spec.authors      = ["Domenico Giuseppe Garofoli"]
   spec.email        = ["sirion1987@gmail.com"]
 
